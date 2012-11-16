@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-ApolloWeb::Application.load_tasks
+Apollo::Application.load_tasks
